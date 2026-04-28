@@ -22,9 +22,9 @@ This project presents an interactive Power BI dashboard to analyze supply chain 
 ## 🖼 Dashboard Preview
 ## 🖼 Dashboard Preview
 
-![Dashboard 1](dashboard.png)
+![Dashboard](dashboard.png)
 
-![Dashboard 2](dashboard .png)
+![Dashboard](dashboard .png)
 
 ## 📂 Project File
 🔽 [Download Dashboard](operations-analytics-dashboard.pbix)
