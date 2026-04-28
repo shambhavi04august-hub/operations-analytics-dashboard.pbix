@@ -20,7 +20,6 @@ This project presents an interactive Power BI dashboard to analyze supply chain 
 - DAX  
 
 ## 🖼 Dashboard Preview
-## 🖼 Dashboard Preview
 
 ![Dashboard](dashboard.png)
 
